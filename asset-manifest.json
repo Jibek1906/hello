@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/front-end-tictactoe/static/css/main.81952a31.css",
+    "main.js": "/front-end-tictactoe/static/js/main.3d0fceaa.js",
+    "static/media/versailles.jpeg": "/front-end-tictactoe/static/media/versailles.0b706ef7d3bea3004c15.jpeg",
+    "static/media/azure.jpeg": "/front-end-tictactoe/static/media/azure.df56bac07d34c0de0db0.jpeg",
+    "static/media/louvre.jpeg": "/front-end-tictactoe/static/media/louvre.9ff7f27378520e24e7c6.jpeg",
+    "static/media/tower.jpeg": "/front-end-tictactoe/static/media/tower.d03353bf733da2d3a993.jpeg",
+    "static/media/michel.jpeg": "/front-end-tictactoe/static/media/michel.6762679d2238b5986c23.jpeg",
+    "static/media/logo.png": "/front-end-tictactoe/static/media/logo.d73bf3ee3f6ff3b88de2.png",
+    "index.html": "/front-end-tictactoe/index.html",
+    "main.81952a31.css.map": "/front-end-tictactoe/static/css/main.81952a31.css.map",
+    "main.3d0fceaa.js.map": "/front-end-tictactoe/static/js/main.3d0fceaa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81952a31.css",
+    "static/js/main.3d0fceaa.js"
+  ]
+}
